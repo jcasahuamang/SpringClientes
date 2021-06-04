@@ -1,0 +1,11 @@
+INSERT INTO clientes(nombre,apellido,email,create_at)values('Andres','Guzman','profesor@gmail.com','2021-05-16');
+INSERT INTO clientes(nombre,apellido,email,create_at)values('Luis','Perez','profesor@gmail.com','2021-05-10');
+INSERT INTO clientes(nombre,apellido,email,create_at)values('Ernesto','Saenz','profesor@gmail.com','2021-05-09');
+INSERT INTO clientes(nombre,apellido,email,create_at)values('Cesar','Talavera','profesor@gmail.com','2021-05-05');
+INSERT INTO clientes(nombre,apellido,email,create_at)values('Pilar','Quiros','profesor@gmail.com','2021-05-17');
+INSERT INTO clientes(nombre,apellido,email,create_at)values('Manuel','Sotelo','profesor@gmail.com','2021-05-11');
+INSERT INTO clientes(nombre,apellido,email,create_at)values('Saul','Taboada','profesor@gmail.com','2021-05-12');
+INSERT INTO clientes(nombre,apellido,email,create_at)values('Juan Jose','Guerrero','profesor@gmail.com','2021-05-16');
+INSERT INTO clientes(nombre,apellido,email,create_at)values('Carolina','Flores','profesor@gmail.com','2021-05-16');
+INSERT INTO clientes(nombre,apellido,email,create_at)values('Hector','Huaman','profesor@gmail.com','2021-05-12');
+INSERT INTO clientes(nombre,apellido,email,create_at)values('Atila','Ishii','profesor@gmail.com','2021-05-05');
